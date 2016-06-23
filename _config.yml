@@ -1,0 +1,28 @@
+name: princeappled
+favicon: null
+layout_spectrum: 0.208505422109738
+typography_spectrum: 0.3398117795586586
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6148276869207621
+  lightness: 0.34113274910487235
+  saturation: 0.6617084071040154
+  rhythmicContrast: 0.4977431648876518
+purpose: []
